@@ -1,0 +1,7 @@
+{
+  "sources": [
+    {"owner": "python", "repo": "cpython", "since_hours": 24},
+    {"owner": "rust-lang", "repo": "rust", "since_hours": 48},
+    {"owner": "golang", "repo": "go", "since_hours": 24}
+  ]
+}
